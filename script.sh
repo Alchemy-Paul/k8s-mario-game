@@ -34,3 +34,5 @@ unzip awscliv2.zip
 sudo ./aws/install
 
 echo "Installation completed successfully."
+
+#do well to read through!
